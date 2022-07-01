@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AltairStudio
-- 👀 I’m interested in Learning C++ and C#
+- 👀 I’m interested in Learning C++ C# and Python!
 - 🌱 I’m currently learning C++
 
 <!---
